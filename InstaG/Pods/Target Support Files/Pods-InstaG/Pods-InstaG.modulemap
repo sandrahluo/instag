@@ -1,0 +1,6 @@
+framework module Pods_InstaG {
+  umbrella header "Pods-InstaG-umbrella.h"
+
+  export *
+  module * { export * }
+}
